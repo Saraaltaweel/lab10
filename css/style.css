@@ -1,0 +1,180 @@
+.first{
+    position: relative;
+    margin:30px;
+    left: 150px;
+    right: 150px;
+    
+}
+header div {
+    position: relative;
+    left:50px;
+    bottom: 15px;
+
+}
+.logo {
+    position: relative;
+    /* left: 10px; */
+    top: 35px;
+} 
+  header ul li{
+    display: inline-block;
+    /* position: relative;
+    left: 700px;
+    bottom: 40px; */
+}  
+header div h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+ main{
+    position: relative;
+    left: 150px;
+} 
+main div{
+   margin-bottom: 10px;
+}
+main section{
+    margin-top: 20px;
+    text-indent: 30px;
+    
+
+}
+main section p{
+    margin-top: 20px;
+    color: rgb(112, 108, 108);
+    font-family:serif;
+}
+.img1{
+    margin-top: 30px;
+}
+header div h1{
+    @import url('https://fonts.googleapis.com/css2?family=Ballet&family=Long+Cang&display=swap');
+    font-family: 'Ballet', cursive;
+    font-family:'Long Cang', cursive;
+     font-size: 40px; 
+    font-weight:bold;
+}
+header div p{
+    color: rgb(182, 176, 176);
+    font-size: 10px;
+    font-weight: bold;
+}
+ main h1{
+    font-size: 40px;
+   font: weight 3px;; 
+    font-family:fantasy; 
+ }
+
+main p{
+    color: rgb(182, 176, 176);
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+main h1::first-letter {
+   
+     font-size: 150%;
+}
+main h1 span{
+   
+    font-size: 150%;
+}
+.a{
+    height: 30%;
+    width: 60%;
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d14/main/class-10/lab-a/lab-assets/list-bg.png);
+}
+.b{
+    position: relative;
+    left: 500px;
+    bottom:80px;
+    color: rgb(100, 112, 77);
+    font-family:cursive;
+}
+.c{
+    position: relative;
+    left:50px;
+    top:30px;
+    font-family:cursive;
+    color: rgb(100, 112, 77);
+}
+footer div {
+    position: relative;
+left: 90px;
+bottom:70px;
+}
+footer div h2{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family:serif;
+    font-weight: bold;
+}
+footer div p {
+    font-size: 15px;
+    font-family: serif;
+    color: rgb(112, 109, 109);
+}
+button{
+    background-color: rgb(190, 95, 27);
+    color: white;
+    width: 12%;
+    
+    padding: 11px 20px;
+    position: relative;
+    left: 725px;
+    bottom: 130px;
+
+}
+footer section img {
+    position:relative;
+    left:450px;
+    margin: 20px;
+    bottom: 50px;
+
+
+    
+}
+footer section p {
+    position: relative;
+    left:350px;
+    color: gray;
+
+}
+footer section :last-child{
+    position:relative ;
+     left: 390px;
+     bottom: 50px;
+}
+.par{
+   
+    position:relative ;
+    left: 370px;
+    bottom: 60px;
+
+}
+
+.hr {
+    margin-right:  610px;
+}
+main nav ul li{
+display: inline-block;
+position: relative;
+left: 840px;
+bottom: 30px;
+
+}
+.space{
+   display: inline-block;
+    position: relative;
+    left: 660px;
+    bottom: 40px;
+}
+.space2{
+    display: inline-block;
+    position: relative;
+    left: 675px;
+    bottom: 40px;
+
+}
+
